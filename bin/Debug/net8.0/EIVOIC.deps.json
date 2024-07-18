@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EIVOIC/1.0.0": {
+        "runtime": {
+          "EIVOIC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EIVOIC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
